@@ -1,0 +1,30 @@
+.Header{
+    display: flex;
+}
+.Logo{
+    width: 9rem;
+    height: 9rem;
+    margin-left: 1rem;
+    padding: 1rem 0rem ;
+}
+.Name{
+    font-size: 2rem;
+    display: inline;
+    padding: 1.5rem 1rem;
+    color: rgb(4, 77, 142);
+
+}
+.Header-Menu{
+    list-style: none;
+    font-size: 1rem;
+    font-weight:500;
+    display: flex;
+    padding: 2.5rem 0.5rem 2.5rem 12rem;
+    gap :2rem;
+}
+.header-line{
+    border: none;
+    height: 2px;
+    background-color: gray;
+    margin: 20px 0;
+}

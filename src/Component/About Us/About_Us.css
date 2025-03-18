@@ -1,0 +1,33 @@
+.About-Us{
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem 2rem;
+    gap :2rem;
+}
+.left{
+    text-align: left;
+    background-color: rgb(186, 123, 27);
+    border-radius: 10rem;
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: red solid 0.2rem;
+    padding-top: 1.5rem;
+}
+h1{
+    padding : 2rem 3rem;
+}
+h2{
+    text-align: left;
+    padding-left: 2rem;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 0.5rem;
+    font-size: 1.5rem;
+}
+img{
+    align-items: right;
+    border-radius: 5rem;
+    border: blue;
+}
